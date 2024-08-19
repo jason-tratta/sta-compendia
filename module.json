@@ -11,7 +11,7 @@
   "version": "0.5.3",
   "compatibility": {
     "minimum": "10",
-    "verified": "11.311",
+    "verified": "12.331",
     "maximum": "12.331"
   },
   "relationships": {
@@ -21,7 +21,7 @@
         "manifest": "https://raw.githubusercontent.com/mkscho63/sta/master/src/system.json",
         "compatibility": {
           "minimum": "1.1.9",
-          "verified": "1.1.11"
+          "verified": "1.2.6"
         },
         "type": "system"
       }
